@@ -1,0 +1,3 @@
+[submodule "x/y"]
+	path = A/modules/x
+	url = /tmp/snyk/git_rce2/hook
